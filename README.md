@@ -1,6 +1,6 @@
 
 
-![YouTube Downloader](./assets/example.gif)
+![YouTube Downloader](\assets\example.gif)
 
 # YouTube Downloader
 
