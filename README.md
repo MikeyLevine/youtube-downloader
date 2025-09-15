@@ -1,4 +1,4 @@
-<video src="./assets/example.mp4" controls muted autoplay loop></video>
+<video src="[./assets/example.mp4](https://github.com/MikeyLevine/youtube-downloader/blob/main/assets/exaple.mp4)" controls muted autoplay loop></video>
 
 # YouTube Downloader
 
