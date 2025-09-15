@@ -2,6 +2,10 @@
 
 Here's a screenshot of the application's user interface.
 
+
+
+![YouTube Downloader](\assets\example.gif)
+
 # YouTube Downloader
 
 A Python application to download YouTube videos and convert them to MP4, AVI, MOV, and WebM formats. Includes a graphical user interface (GUI).
