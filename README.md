@@ -1,10 +1,4 @@
-## Usage
-
-Here's a screenshot of the application's user interface.
-
-
-
-![YouTube Downloader](\assets\example.gif)
+<video src="./assets/example.mp4" controls muted autoplay loop></video>
 
 # YouTube Downloader
 
