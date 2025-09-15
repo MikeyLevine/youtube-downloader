@@ -1,4 +1,5 @@
-<video src="[./assets/example.mp4](https://github.com/MikeyLevine/youtube-downloader/blob/main/assets/exaple.mp4)" controls muted autoplay loop></video>
+
+![githubexaple](https://github.com/user-attachments/assets/123d92b8-26d1-403c-af10-e4c2030057b3)
 
 # YouTube Downloader
 
