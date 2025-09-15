@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+.env
+.venv/
+env/
+# VS Code
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
+# Assets
+assets/ffmpeg.exe
+assets/*.gif
+assets/*.png
