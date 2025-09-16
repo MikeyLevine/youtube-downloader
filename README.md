@@ -68,9 +68,9 @@ pip install -r requirements.txt
 ```
 
 ### 5. Usage
-Run the main script to start the application.
+Always run the app with python -m src.main from the project root.
 
 ```bash
-python src/main.py
+python -m src.main
 ```
 
