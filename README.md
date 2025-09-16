@@ -25,3 +25,32 @@ Open your command prompt or terminal and clone the project from GitHub.
 ```bash
 git clone https://github.com/MikeyLevine/youtube-downloader.git
 cd youtube-downloader
+```
+### 2. Create a Virtual Environment
+It's recommended to create a virtual environment to manage dependencies.
+
+```bash
+python -m venv .venv
+```
+
+### 3. Activate the Environment
+Activate the new virtual environment before installing the project's dependencies.
+### On Windows (PowerShell)
+
+```bash
+.\.venv\Scripts\Activate.ps1
+```
+#### On macOS/Linux
+
+```bash
+source .venv/bin/activate
+```
+
+### 4. Usage
+Run the main script to start the application.
+
+```bash
+python src/main.py
+```
+
+
