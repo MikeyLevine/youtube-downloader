@@ -11,5 +11,3 @@ env/
 Thumbs.db
 # Assets
 assets/ffmpeg.exe
-assets/*.gif
-assets/*.png
