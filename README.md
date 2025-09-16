@@ -11,9 +11,17 @@ A powerful and user-friendly Python application that allows you to download YouT
 
 ## Requirements
 * Python 3.8+
-* ffmpeg
-* pytube
-* PyQt5
+* **ffmpeg** (needed for converting videos to MP3/other formats)
 
-## Usage
-Run `python src/main.py` to start the application.
+---
+
+## Setup and Installation
+
+Follow these steps to get the program running on your local machine.
+
+### 1. Clone the Repository
+Open your command prompt or terminal and clone the project from GitHub.
+
+```bash
+git clone https://github.com/MikeyLevine/youtube-downloader.git
+cd youtube-downloader
