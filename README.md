@@ -11,8 +11,21 @@ A powerful and user-friendly Python application that allows you to download YouT
 
 ## Requirements
 * **[Python 3.8+](https://www.python.org/downloads/release/python-3137/)**
-* **[ffmpeg](https://ffmpeg.org/download.html)** (needed for converting videos to MP3/other formats)
----
+* **ffmpeg** (needed for converting videos to MP3/other formats)
+
+## ffmpeg Installation
+
+This program requires [ffmpeg](https://ffmpeg.org/) for video/audio processing.
+
+**Windows:**
+- Download the latest static build from [ffmpeg.org/download.html](https://ffmpeg.org/download.html).
+- Extract the zip file.
+- Copy `ffmpeg.exe` from the `bin` folder into the project's `assets` folder (so the path is `assets/ffmpeg.exe`).
+
+**macOS (with Homebrew):**
+```sh
+brew install ffmpeg
+```
 
 ## Setup and Installation
 
@@ -23,6 +36,8 @@ Open your command prompt or terminal and clone the project from GitHub.
 
 ```bash
 git clone https://github.com/MikeyLevine/youtube-downloader.git
+```
+```bash
 cd youtube-downloader
 ```
 ### 2. Create a Virtual Environment
