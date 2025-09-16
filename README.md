@@ -12,7 +12,6 @@ A powerful and user-friendly Python application that allows you to download YouT
 ## Requirements
 * **[Python 3.8+](https://www.python.org/downloads/release/python-3137/)**
 * **[ffmpeg](https://ffmpeg.org/download.html)** (needed for converting videos to MP3/other formats)
-* 
 ---
 
 ## Setup and Installation
