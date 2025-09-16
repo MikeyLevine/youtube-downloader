@@ -10,9 +10,9 @@ A powerful and user-friendly Python application that allows you to download YouT
 * **Detailed Video Information:** Use the "Info" button to view essential video details, including the title, channel name, video duration, file size, and a full description.
 
 ## Requirements
-* Python 3.8+
-* **ffmpeg** (needed for converting videos to MP3/other formats)
-
+* **[Python 3.8+](https://www.python.org/downloads/release/python-3137/)**
+* **[ffmpeg](https://ffmpeg.org/download.html)** (needed for converting videos to MP3/other formats)
+* 
 ---
 
 ## Setup and Installation
