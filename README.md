@@ -39,17 +39,23 @@ Activate the new virtual environment before installing the project's dependencie
 ```bash
 .\.venv\Scripts\Activate.ps1
 ```
-#### On macOS/Linux
+### On macOS/Linux
 
 ```bash
 source .venv/bin/activate
 ```
 
-### 4. Usage
+### 4. Install Dependencies
+Install all the required Python packages using pip.
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Usage
 Run the main script to start the application.
 
 ```bash
 python src/main.py
 ```
-
 
